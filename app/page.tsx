@@ -35,7 +35,7 @@ export default function Home() {
               href="/post-errand"
               className="bg-sky-600 hover:bg-sky-700 text-white font-medium px-6 py-3 rounded-xl transition"
             >
-              Reqeust Runner
+              Request Runner
             </Link>
             <Link
               href="/join"
