@@ -15,24 +15,14 @@ const services = [
       "Need to send or collect a package? We’ll take care of post office runs and deliveries around Skye.",
     icon: Package,
   },
-  {
-    title: "Dog Walking",
-    description:
-      "Busy day or away for a while? Our friendly team can walk your dog safely and lovingly.",
-    icon: Dog,
-  },
+ 
   {
     title: "Prescription Collection",
     description:
       "We can collect prescriptions from local pharmacies and bring them right to your home.",
     icon: HeartPulse,
   },
-  {
-    title: "Neighbour Check-ins",
-    description:
-      "Simple visits or calls to check on elderly neighbours — because care goes a long way.",
-    icon: Home,
-  },
+  
 ];
 
 interface ServicesSectionProps {
